@@ -1,0 +1,81 @@
+/* HEADER */
+nav ul#sfmenu li {
+  color: #12689e;
+}
+nav.navbar ul#sfmenu li {
+  background-color: #eef3f7;
+  border-bottom: 2px solid #0d6096;
+  border-left: 1px solid #fff;
+}
+
+/* CONTAINER */
+
+div #fil ul li {
+  color: #0d6096;
+}
+
+/* SECTION */
+section div#contenu_principal div.police-bleue {
+  color: #0d6096;
+}
+section div#contenu_principal h1.fond-bleu {
+  background-color: #0d6096;
+  color: #fff;
+  font-size: 27px;
+}
+section div#contenu_sous_principle {
+  background-color: #eef3f7;
+  font-size: 16px;
+}
+section div#contenu_sous_principle div a {
+  color: #0d6096;
+}
+
+/* ASIDE */
+
+aside div.contenu_aside {
+  background-color: #eef3f7;
+  font-size: 15px;
+}
+aside div.contenu_aside h3.fond-bleu {
+  background-color: #0d6096;
+}
+aside div.contenu_aside div a.police-bleue {
+  color: #0d6efd;
+}
+aside div.contenu_aside h3 {
+  color: #fff;
+  font-size: 20px;
+}
+aside div.contenu_aside h3.fond-rouge {
+  background-color: #9c2f03;
+}
+aside div.contenu_aside span.date {
+  color: #9c2f03;
+}
+aside div.contenu_aside a {
+  color: #000;
+}
+aside div.contenu_aside div a.police-rouge {
+  color: #9c2f03;
+}
+
+/* FOOTER */
+
+footer {
+  background-color: #008bd3;
+  color: #fff;
+}
+footer .col-md-12 .col-md-2 ul li a {
+  color: #fff;
+}
+footer #fin_du_pied {
+  background-color: #0d6096;
+  font-size: 10px;
+}
+footer #fin_du_pied a {
+  color: #fff;
+}
+footer span.tirer_fin_du_pied {
+  color: #000;
+}
